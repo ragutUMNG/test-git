@@ -36,3 +36,16 @@ textarea {
   padding-left: 90px; /* mismo tamaño que los elementos de la etiqueta */
 }
 
+strong{
+	color: red;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+
+p{
+	color: red;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+
+
