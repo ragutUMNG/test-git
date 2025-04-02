@@ -35,3 +35,7 @@ textarea {
   /* Alinear los botones con los campos de texto */
   padding-left: 90px; /* mismo tamaño que los elementos de la etiqueta */
 }
+
+li{
+  padding-left: 90px;
+}
